@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   unlimited and free multimedia conversion. Transform images, audio, and
   videos effortlessly, without restrictions. Start converting now and
   elevate your content like never before!`,
-  creator: 'SOUHAIL BEN-LHACHEMI',
+  creator: 'Habibullahi Mohammed',
   keywords:
     'image converter, video converter, audio converter, unlimited image converter, unlimited video converter',
 };
